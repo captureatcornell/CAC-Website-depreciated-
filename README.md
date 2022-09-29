@@ -1,3 +1,1 @@
-# Project 1
-
-**Submission Instructions:** Stage, commit, and push your changed files. Then complete the submission form.
+The Website for Capture @ Cornell, the photography and videography at Cornell. Designed and developed by Ming DeMers
